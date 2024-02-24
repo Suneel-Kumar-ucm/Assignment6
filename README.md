@@ -1,4 +1,9 @@
 # Assignment6
+name: suneel kumar reddy katikareddy
+user_id:sxk66390
+stdunet id:700756639
+
+video link:https://drive.google.com/file/d/1ZxR0ghPiGLknBYJgRAN9Fen25pTjpNgc/view?usp=drive_link
 
 
 1.Use the use case in the class: 
